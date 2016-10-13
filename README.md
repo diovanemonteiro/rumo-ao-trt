@@ -1,4 +1,4 @@
-# Informações importantes - Edital Concurso TRT 11ª 2012
+# Concurso TRT 11ª Região AM-RR 2012
 
 ## Das Provas
 ***
@@ -11,17 +11,16 @@
 | Técnico Judiciário - Tecnologia da Informação   | Conhecimentos Específicos   | 35             | 2       |
 
 ## Conteúdo Programático
-***
 
-## Analista Judiciário - Especialidade Tecnologia da Informação
+### Analista Judiciário - Especialidade Tecnologia da Informação
 
-### Conhecimentos Gerais
+#### Conhecimentos Gerais
 
 **Português:** Ortografia oficial. Acentuação gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal. Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto.
 
 **Raciocínio Lógico:** Esta prova visa avaliar a habilidade do candidato em entender a estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações. Os estímulos visuais utilizados na prova, constituídos de elementos conhecidos e significativos, visam a analisar as habilidades dos candidatos para compreender e elaborar a lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio seqüencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Em síntese, as questões da prova destinam-se a medir a capacidade de compreender o processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
 
-### Conhecimentos Específicos
+#### Conhecimentos Específicos
 
 **Organização e arquitetura de computadores:** hardware, software, sistema operacional, dispositivos de entrada e saída, periféricos, memória, processador, dispositivos de armazenamento. 
 
@@ -61,16 +60,16 @@
 
 **Inglês Técnico.**
 
-## Técnico Judiciário − Especialidade Tecnologia da Informação
+### Técnico Judiciário − Especialidade Tecnologia da Informação
 
-### Conhecimentos Gerais
+#### Conhecimentos Gerais
 
 **Língua Portuguesa:** Ortografia oficial. Acentuação gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal. Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto.
 
 **Raciocínio Lógico:** Esta prova visa avaliar a habilidade do candidato em entender a estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações. Os estímulos visuais utilizados na prova, constituídos de elementos conhecidos e significativos, visam a analisar as habilidades dos candidatos para compreender e elaborar a lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio seqüencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Em síntese, as questões da prova destinam-se a medir a capacidade de
 compreender o processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
 
-### Conhecimentos Específicos
+#### Conhecimentos Específicos
 
 **Conceitos de organização e arquitetura de computadores:** hardware, software, sistema operacional, dispositivos de entrada e saída, periféricos, memória, processador, dispositivos de armazenamento. 
 
