@@ -9,54 +9,62 @@
 | Técnico Judiciário - Tecnologia da Informação   | Conhecimentos Gerais        | 25             | 1       |
 | Técnico Judiciário - Tecnologia da Informação   | Conhecimentos Específicos   | 35             | 2       |
 
-## Conteúdo Programático
+## Conteúdo Programático ATUALIZADO
 
 ### Analista Judiciário - Especialidade Tecnologia da Informação
 ***
 
 ### Conhecimentos Gerais
 
-**Português:** Ortografia oficial. Acentuação gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal. Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto.
+**Português:** Ortografia oficial. Acentuação  gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal. Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto. 
 
-**Raciocínio Lógico:** Esta prova visa avaliar a habilidade do candidato em entender a estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações. Os estímulos visuais utilizados na prova, constituídos de elementos conhecidos e significativos, visam a analisar as habilidades dos candidatos para compreender e elaborar a lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio seqüencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Em síntese, as questões da prova destinam-se a medir a capacidade de compreender o processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
+**Raciocínio Lógico-Matemático:** Números inteiros e racionais: operações(adição, subtração, multiplicação, divisão, potenciação); expressões numéricas; múltiplos e divisores de números naturais; problemas. Frações e operações com frações. Números e grandezas proporcionais: razões e proporções; divisão em partes proporcionais; regra de três; porcentagem e problemas.  Estrutura  lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos  fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações. Compreensão e elaboração da lógica das situações por meio de: raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Compreensão do processo  lógico  que, a 
+partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
 
 ### Conhecimentos Específicos
 
-**Organização e arquitetura de computadores:** hardware, software, sistema operacional, dispositivos de entrada e saída, periféricos, memória, processador, dispositivos de armazenamento. 
+**Organização  e  arquitetura  de  computadores:**  hardware,  software,
+sistema  operacional,  dispositivos  de  entrada  e saída, periféricos, memória, processador,  dispositivos de armazenamento. 
 
-**Redes de armazenamento de dados:** conceitos de SAN, NAS. 
+**Redes de armazenamento de dados:** Conceitos de  Storage Area Networks (SAN) e Network Attached Storage (NAS); Fibr e Channel (FC): protocolo Fibre Channel Protocol (FCP), camadas e  topologias  padrão;  Protocolos  Common  Internet  FileSystem  (CIFS)  e  Network  File  System  (NFS);  Redundant  Array  of 
+Inexpensive Disks (RAID): principais níveis;
 
-**Sistemas operacionais:** conceitos e configurações básicas de Windows 7 Vista, 2003 Server, 2008 Server e Linux (Red Hat, SuSE) . Gerenciamento de memória, programas, processos, entrada e saída. Gerenciamento de sistemas de arquivos CIFS e NFS. Administração de usuários, grupos, permissões, controles de acesso (LDAP, Active Directory). 
+**Backup:** Políticas de backup; Tipos de backup (completo, incremental e diferencial) e arquiteturas. 
 
-**Redes de computadores:** conceitos de comunicação de dados, meios de transmissão (Redes WAN), cabeamento estruturado, redes sem fio. Modelo OSI. Protocolo TCP/IP versões 4 e 6. 
+**Sistemas operacionais:** conceitos e configurações básicas de Windows 7, 8, Windows Server 2008 R2, Linux Red Hat  6  e  Oracle  Linux  7.  Gerenciamento  de  memória,  programas,  processos,  entrada  e saída.  Administração de  usuários, grupos,  permissões, controles  de  acesso  (LDAP,  Active Directory).
 
-**Gerenciamento de redes de computadores:** conceitos, protocolo SNMP, qualidade de serviço (QoS). Noções de Data Center. Segurança: criptografia simétrica e assimétrica, certificação e assinatura digital, firewall, filtro de conteúdo, NAT, VPN, vírus de computador e outros tipos de malware. 
+**Redes de computadores:**  conceitos  de  comunicação  de dados, meios  de  transmissão (Redes  WAN), cabeamento estruturado,  redes  sem  fio.  Modelo  OSI.  Pilha  de  protocolos TCP/IP versões  4  e  6.
 
-**Sistemas de cópia de segurança:** tipos, meios de armazenamento. Auditoria. Plano de Contingência. Normas de segurança ISO 27001 e ISO 27002. 
+**Gerenciamento de redes de computadores:** conceitos,  protocolo  SNMP,  qualidade  de  serviço (QoS). Noções  de  Data  Center.  
 
-**Banco de dados:** banco de dados relacional, modelos E-R, linguagens SQL e PL/SQL. Banco de dados Oracle 11g. Conceitos de data warehouse, data mining, OLAP, portais. 
+**Segurança:**  criptografia  simétrica  e  assimétrica,  certificação  e  assinatura  digital,  firewall,  filtro  de conteúdo, NAT, VPN, DMZ, IPS, IDS, vírus de computador e outros tipos de malware.
 
-**Linguagens de programação:** estrutura de dados, algoritmos, interpretação e compilação de programas, lógica de programação. 
+**Sistemas de cópia de segurança:** tipos, meios de armazenamento. Auditoria de sistemas e segurança da informação. Plano de Contingência. Plano de Continuidade de Negócio. Normas de segurança ABNT NBR ISO/IEC 27001:2013
+; ABNT NBR ISO/IEC 27002:2013.
 
-**Orientação a objetos:** classe, herança, polimorfismo, objeto. 
+**Banco de dados:** banco de dados relacional, modelos E-R, linguagens SQL e PL/SQL. Oracle 11g. PostgreSQL 9.3. Conceitos de Data Warehouse, Data Mining,  OLAP.  Portais  corporativos,  portlets.
 
-**Engenharia de software:** análise e projeto estruturado e orientado a objetos. UML. Conceitos de HTML, XHTML, CSS e XML. Modelagem funcional e de dados. Testes, homologação e implantação de sistemas; 
+**Lógica de programação:** estruturas  de  dados,  instruções  de seleção  e  de repetição, algoritmos, interpretação e compilação de programas.  
+
+**Orientação a objetos:** classe, herança, polimorfismo,  objeto. 
+
+**Engenharia de software:** análise  e  projeto  estruturado e orientado a  objetos.  UML.  Conceitos  de  HTML5,  CSS3  e  XML. Modelagem funcional e de dados. Testes, homologação e implantação de sistemas;
 
 **Ambientes e linguagens de programação:** Java, JavaScript, PHP, Oracle Forms e Reports, Ruby, Python. 
 
-**Servidores de Aplicação\WEB:** Tomcat, Jboss. GlassFish, Apache HTTPD e IIS; 
+**Servidores de Aplicação:**  JBoss 5.1 e  HTTP Apache  versão 2.2.
 
-**Frameworks:** EJB, JSF, Hibernate JPA, J2EE, JUnit. 
+**Frameworks:**  Hibernate  JPA,   AngularJS  2,  PrimeFaces,  TypeScript.  
 
-**Métricas de software:** pontos de função, pontos de casos de uso. 
+**Métricas de software:**  pontos  de função, pontos de casos de uso. 
 
-**Arquitetura de sistemas:** cliente/servidor, multicamadas. Webservices e arquitetura orientada a serviços (SOA). Padrões de projetos (design patterns). 
+**Arquitetura de sistemas:** cliente/servidor, multicamadas. Web services e arquitetura orientada a  serviços  (SOA). Padrões  de  projetos  (design  patterns).  
 
-**Gestão de Tecnologia da Informação:** Frameworks ITIL V3 e COBIT (versão 4.2). 
+**Gestão de Tecnologia da Informação:** Frameworks  ITIL  v3  Edição 2011  e  COBIT  versão  5.
 
-**Qualidade de software:** modelos CMMI, MPS-BR, ISO 12207.
+**Qualidade de software:**  modelos  CMMI  versão  1.3,  modelo  MR-MPS-SW  do  guia  MPS.BR,  NBR ISO/IEC 12207:2009.
 
-**Gerenciamento de projetos:** PMBoK.
+**Gerenciamento de projetos:** PMBOK 5ª Edição.
 
 **Inglês Técnico.**
 
@@ -65,35 +73,46 @@
 
 ### Conhecimentos Gerais
 
-**Língua Portuguesa:** Ortografia oficial. Acentuação gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal. Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto.
+**Língua  Portuguesa:** Ortografia oficial. Acentuação gráfica. Flexão nominal e verbal. Pronomes: emprego, formas de tratamento e colocação. Emprego de tempos e modos verbais. Vozes do verbo. Concordância nominal e verbal.
+Regência nominal e verbal. Ocorrência de crase. Pontuação. Redação (confronto e reconhecimento de frases corretas e incorretas). Intelecção de texto.
 
-**Raciocínio Lógico:** Esta prova visa avaliar a habilidade do candidato em entender a estrutura lógica de relações arbitrárias entre pessoas, lugares, objetos ou eventos fictícios; deduzir novas informações das relações fornecidas e avaliar as condições usadas para estabelecer a estrutura daquelas relações. Os estímulos visuais utilizados na prova, constituídos de elementos conhecidos e significativos, visam a analisar as habilidades dos candidatos para compreender e elaborar a lógica de uma situação, utilizando as funções intelectuais: raciocínio verbal, raciocínio matemático, raciocínio seqüencial, orientação espacial e temporal, formação de conceitos, discriminação de elementos. Em síntese, as questões da prova destinam-se a medir a capacidade de
-compreender o processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
+**Raciocínio Lógico-Matemático:** Números inteiros e racionais: operações adição, subtração, multiplicação, divisão, potenciação); expressões numéricas; múltiplos e divisores de números naturais; problemas. Frações e operações com frações. Números e grandezas proporcionais: razões e proporções; divisão em partes proporcionais; regra  de  três;  porcentagem  e problemas. Estrutura  lógica  de  relações  arbitrárias entre  pessoas,  lugares,  objetos  ou  eventos  fictícios;  deduzir  novas informações  das  relações  fornecidas e avaliar as condições  usadas  para  estabelecer  a  estrutura  daquelas relações. Compreensão e elaboração da lógica das situações por meio de: raciocínio verbal, raciocínio matemático, raciocínio sequencial, orientação  espacial e temporal, formação de conceitos, discriminação de elementos. Compreensão do processo lógico que, a partir de um conjunto de hipóteses, conduz, de forma válida, a conclusões determinadas.
 
 ### Conhecimentos Específicos
 
-**Conceitos de organização e arquitetura de computadores:** hardware, software, sistema operacional, dispositivos de entrada e saída, periféricos, memória, processador, dispositivos de armazenamento. 
+**Conceitos de organização e arquitetura de computadores:** hardware,  software, sistema operacional, dispositivos de  entrada  e saída, periféricos,  memória,  processador,  dispositivos  de  armazenamento.
 
-**Conceitos de redes de armazenamento de dados:** SAN, NAS. 
+**Conceitos de redes de armazenamento de dados:** Conceitos  de  Storage  Area  Networks  (SAN)  e  Network Attached  Storage  (NAS);  Redundant  Array  of  Inexpensive  Disks (RAID):  principais  níveis;  
 
-**Sistemas operacionais:** conceitos e configurações básicas de MS Windows (7, Vista, 2008 Server) e Linux (Red Hat, SuSE, FEDORA). Gerenciamento de memória, programas, processos, entrada e saída. Noções de sistemas de arquivos CIFS e NFS. Administração de usuários, grupos, permissões, controles de acesso (LDAP, Active Directory). 
+**Backup:** Políticas  de  backup;  Tipos  de  backup  (completo,  incremental  e  diferencial).
 
-**Redes de computadores:** conceitos de comunicação de dados, meios de transmissão (Redes WAN), cabeamento estruturado, redes sem fio. Modelo OSI. Protocolo TCP/IP versões 4 e 6. Gerenciamento de redes de computadores: conceitos, protocolo SNMP, qualidade de serviço (QoS). Noções de Data Center. 
+**Sistemas operacionais:**  conceitos  e  configurações  básicas  de Windows  7,  8,  Windows  Server  2008  R2  e  Linux  Red  Hat  6. Gerenciamento  de  memória, programas,  processos,  entrada  e  saída.  Noções  de  Fibre Channel  (FC):  protocolo  Fibre Channel Protocol  (FCP),  camadas  e  topologias  padrão;  Protocolos Common  Internet  File  System  (CIFS)  e  Network  File  System  (NFS). Administração  de  usuários,  grupos,  permissões,  controles  de  acesso  (LDAP,  Active  Directory).
 
-**Segurança da Informação:** conceitos, políticas, controles de acesso, tipos de ataques, mecanismos e ferramentas de segurança, criptografia, certificação digital, vírus de computador e outros tipos de malware. 
+**Redes de computadores:** conceitos de comunicação de dados, meios de transmissão (Redes WAN), cabeamento estruturado, redes semfio. Modelo OSI. 
+Pilha  de  protocolos TCP/IP  versões  4  e  6.
 
-**Banco de dados:** banco de dados relacional, modelos E-R, linguagens SQL e PL/SQL. Noções Banco de dados Oracle 11g e SQL Server. Conceitos de data warehouse, data mining, OLAP, portais.
+**Gerenciamento de redes de computadores:**  conceitos,  protocolo  SNM
+P, qualidade de serviço (QoS). Noções de Data Center.
 
-**Linguagens de programação:** estrutura de dados, algoritmos, interpretação e compilação de programas.
+**Segurança da Informação:** conceitos, políticas, controles de acesso, tipos de ataques, mecanismos   e   ferramentas   de   segurança,   criptografia,   certificação digital, vírus de computador e outros tipos de malware.
 
-**Orientação a objetos:** classe, herança, polimorfismo, objeto. Conceitos de HTML, CSS e XML. Testes,homologação e implantação de sistemas. 
+**Banco de dados:** banco de dados relacional, modelos  E-R, linguagens SQL e PL/SQL. Noções  de  Oracle  11g  e PostgreSQL 9.3. Conceitos de data warehouse, data mining, OLAP, portais corporativos. 
 
-**Noções de ambientes e linguagens de programação:** Java, Framework J-Company, APEX. Conceitos de servidores de aplicação: Tomcat, Jboss. 
+**Lógica de programação:** estruturas de dados,  instruções  de  seleção  e  de  repetição,  algoritmos,  interpretação  e  compilação  de  programas.
 
-**Conceitos de Frameworks Java:** ejb, jsf, hibernate, j2EE. 
+**Orientação a objetos:** classe, herança, polimorfismo, objeto. Conceitos de HTML5, CSS3 e XML. Testes, homologação e implantação de sistemas.
 
-**Noções de arquitetura de sistemas:** cliente/servidor, multicamadas, hub, webserver eorientada a serviços (SOA). Noções de ITIL V3 e COBIT (versão 4.2). 
+**Noções de ambientes e linguagens de programação:** Java, Framework J-Company, Apex. 
 
-**Conceitos básicos de qualidade de software:** modelos CMMI, MPS-BR, ISO 12207. 
+**Conceitos de servidores de aplicação:** JBoss 5.1 e HTTP Apache versão 2.2.   
+**Conceitos de Frameworks Java:** Hibernate JPA, AngularJS 2, PrimeFaces, TypeScript.
+
+**Noções de arquitetura de sistemas:** cliente/servidor,  multicamadas, hub, web  services  e  orientada  a  serviços (SOA). 
+
+**Noções de ITIL v3 Edição 2011 e COBIT versão 5.** 
+
+**Conceitos básicos de qualidade de software:** modelos CMMI versão 1.3,  modelo  MR-MPS-SW  do  guia  MPS.BR,  NBR  ISO/IEC  12207:2009.
+
+**Noções de gerenciamento de projetos:** PMBOK  5ª Edição.  
 
 **Inglês técnico.**
